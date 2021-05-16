@@ -3,6 +3,6 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("SecondCommit!");
         System.out.println("ThirdCommit!");
-        System.out.println("main&new_branch!");
+        System.out.println("new_branch!");
     }
 }
